@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm RDXiaoLu
 
 Welcome to my GitHub profile!  
-I am passionate about **computer vision**, and I’m currently exploring the intersection of **autonomous driving perception** and **computer vision**.
 
 ---  
 
