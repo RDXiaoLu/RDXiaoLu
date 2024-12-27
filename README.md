@@ -22,11 +22,6 @@ Welcome to my GitHub profile!
 
 ---  
 
-## 🌐 Connect with Me  
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/RDXiaoLu)  
-
----  
 ⭐️ From [Luzhaoxuan](https://github.com/RDXiaoLu)  
 <!--
 **RDXiaoLu/RDXiaoLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
