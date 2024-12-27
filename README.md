@@ -7,9 +7,6 @@ I am passionate about **computer vision**, and I’m currently exploring the int
 
 ## 🚀 About Me  
 
-- 💻 **I’m currently working on:**  
-  Researching **autonomous driving perception** and solving problems in the cross-disciplinary field of **computer vision**.  
-
 - 🌱 **Interests:**  
   - **Computer Vision**: Enhancing perception systems and visual intelligence.  
   - **Autonomous Driving**: Developing robust and efficient perception pipelines.  
