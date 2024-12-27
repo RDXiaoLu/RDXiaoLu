@@ -29,7 +29,6 @@ I am passionate about **computer vision**, and I’m currently exploring the int
 ## 🌐 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/RDXiaoLu)  
-[![Email](https://img.shields.io/badge/Email-Luzhaoxuan%40seu.edu.mk-red?style=flat-square)](mailto:Luzhaoxuan@seu.edu.mk)  
 
 ---  
 ⭐️ From [Luzhaoxuan](https://github.com/RDXiaoLu)  
