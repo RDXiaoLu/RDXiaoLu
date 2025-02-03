@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
   [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk)
   
 - 🧑‍💻 **My Mentor's Homepage:** 
-  [Visit My Mentor's Homepage](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)
+  [LiaoLyuchao](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)
 
 ---  
 
