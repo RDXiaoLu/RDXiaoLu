@@ -13,8 +13,9 @@ Welcome to my GitHub profile!
 - 📧 **Reach Me At:**  
   [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk)
   
-- 🧑‍💻 **My Mentor's Homepage:** 
-  [LiaoLyuchao](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)
+- 🧑‍🎓 **Inspired by My Mentor:**  
+  I’m lucky to be guided by my amazing mentor, **[Prof. Liao Lyuchao](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)**, whose groundbreaking work in the field inspires me every day!  
+  👉 Feel free to explore [Prof. Liao Lyuchao's Homepage](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm) to learn more about his fascinating research.  
 
 ---  
 
