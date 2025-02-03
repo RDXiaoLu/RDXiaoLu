@@ -11,7 +11,10 @@ Welcome to my GitHub profile!
   - **Autonomous Driving**: Developing robust and efficient perception pipelines.  
 
 - 📧 **Reach Me At:**  
-  [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk) 
+  [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk)
+  
+- 🧑‍💻 **My Mentor's Homepage:** 
+  [Visit My Mentor's Homepage](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)
 
 ---  
 
