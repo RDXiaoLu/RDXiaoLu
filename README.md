@@ -36,6 +36,31 @@ Welcome to my GitHub profile!
 
 ---  
 
+<div align="center">  
+  <!-- 添加欢迎的二次元表情 -->  
+  <h1>こんにちは！👋 I'm <strong>RDXiaoLu</strong></h1>  
+  <p>  
+    Welcome to my **二次元 GitHub World!** 🎨✨  
+    I’m passionate about **technology** and **automotive AI**, but also have a big love for **Anime** and **Otaku culture** 🌸  
+  </p>  
+  
+  <!-- 插入二次元图片，让页面更立体 -->  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU2NzRiYmNlM2EzZmNhMzFmMDVlMzAzMmNhOGRjZDA0NzYyODM3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" alt="Anime Girl" height="200px"/>  
+
+  <!-- GitHub Stats -->  
+  <a href="https://github.com/anuraghazra/github-readme-stats">  
+    <img src="https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=ff9e93&icon_color=faa2c1&text_color=a0c4ff" alt="GitHub Stats" height="180px"/>  
+  </a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats">  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=ff9e93&icon_color=faa2c1&text_color=a0c4ff" alt="Top Langs" height="180px"/>  
+  </a>  
+
+  <!-- 加一些可爱的分隔符 -->  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer Banner"/>  
+</div>  
+
+---  
+
 ⭐️ From [Luzhaoxuan](https://github.com/RDXiaoLu)  
 <!--
 **RDXiaoLu/RDXiaoLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
