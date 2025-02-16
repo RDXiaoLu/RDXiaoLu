@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
   - **Computer Vision**: Enhancing perception systems and visual intelligence.  
   - **Autonomous Driving**: Developing robust and efficient perception pipelines.  
 
-- 📧 **Reach Me At:**  
-  [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk)
+- 📫 **Reach Me At:**  
+  - 📧 Email: [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk)
   
 - 🧑‍🎓 **Inspired by My Mentor:**  
   I’m lucky to be guided by my amazing mentor, **[Prof. Liao Lyuchao](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)**, whose groundbreaking work in the field inspires me every day!  
@@ -20,9 +20,13 @@ Welcome to my GitHub profile!
 ---  
 
 
-## 📈 My GitHub Stats  
+## 📈 GitHub Stats  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu)](https://github.com/anuraghazra/github-readme-stats)
+
+[![RDXiaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---  
 
