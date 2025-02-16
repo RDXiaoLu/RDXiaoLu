@@ -3,9 +3,6 @@
 # Hi there! 👋 I'm RDXiaoLu
 
 Welcome to my GitHub profile!  
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QyMDEwYzM4YmYzYmVmNjRmYzI4NzllNjE3N2I4NjZlYjExYmM0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" alt="Anime Girl" height="200px"/>  
-
 </div>  
 
 ---  
