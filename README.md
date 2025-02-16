@@ -42,8 +42,14 @@ Welcome to my GitHub profile!
 
 ---  
 
+<div align="center">  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer Banner"/>  
 
-⭐️ From [Luzhaoxuan](https://github.com/RDXiaoLu)  
+⭐️ From [RDXiaoLu](https://github.com/RDXiaoLu)  
+
+</div>  
+
 <!--
 **RDXiaoLu/RDXiaoLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
