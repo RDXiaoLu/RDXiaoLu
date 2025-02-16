@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 ## 🚀 About Me  
 
 - 🌱 **Interests:**  
-  - **Computer Vision**: Enhancing perception systems and visual intelligence.  
-  - **Autonomous Driving**: Developing robust and efficient perception pipelines.  
+  - 🎥**Computer Vision**: Enhancing perception systems and visual intelligence.  
+  - 🚘**Autonomous Driving**: Developing robust and efficient perception pipelines.  
 
 - 📫 **Reach Me At:**  
   - 📧 Email: [Luzhaoxuan@seu.edu.mk](mailto:Luzhaoxuan@seu.edu.mk)
