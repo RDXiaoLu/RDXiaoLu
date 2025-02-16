@@ -23,7 +23,10 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats  
 
 
-[![RDXiaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![RDXiaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats) 
+[![RDXiaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=default&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ---  
 
