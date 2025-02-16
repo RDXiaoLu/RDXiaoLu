@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
   - 🚘**Autonomous Driving**: Developing robust and efficient perception pipelines.  
 
 - 📫 **Reach Me At:**  
-  - 📧 Email: [Luzhaoxuan@smail.fjut.edu.cn](mailto:Luzhaoxuan@seu.edu.mk)
+  - 📧 Email: [Luzhaoxuan@smail.fjut.edu.cn](mailto:Luzhaoxuan@smail.fjut.edu.cn)
   
 - 🧑‍🎓 **Inspired by My Mentor:**  
   I’m lucky to be guided by my amazing mentor, **[Prof. Liao Lyuchao](https://faculty.fjut.edu.cn/liaolyuchao/en/index.htm)**, whose groundbreaking work in the field inspires me every day!  
