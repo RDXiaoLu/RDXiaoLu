@@ -1,6 +1,6 @@
 <div align="center">  
 
-# Hi there! 👋 I'm RDXiaoLu
+# Hi there! 👋 I'm Zhaoxuan Lu
 Welcome to my GitHub profile!  
 </div>  
 
