@@ -26,19 +26,17 @@ Welcome to my GitHub profile!
 
 [![RDXiaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=default&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)  
 
-</div>
 <div align="center">  
-<table>  
-  <tr>  
-    <td>  
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default&bg_color=ffffff" alt="RDXiaoLu's GitHub stats" height="180px"/></a>  
-    </td>  
-    <td>  
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=default&bg_color=ffffff" alt="Top Langs" height="180px"/></a>  
-    </td>  
-  </tr>  
-</table>  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">  
+  <img src="https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default&bg_color=ffffff" alt="RDXiaoLu's GitHub stats" height="180px" />  
+</a>  
+<a href="https://github.com/anuraghazra/github-readme-stats">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXiaoLu&layout=compact&theme=default&bg_color=ffffff" alt="Top Langs" height="180px" />  
+</a>  
+
 </div>
+
 ---  
 
 ⭐️ From [Luzhaoxuan](https://github.com/RDXiaoLu)  
