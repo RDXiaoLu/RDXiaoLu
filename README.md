@@ -1,7 +1,6 @@
 <div align="center">  
 
 # Hi there! 👋 I'm RDXiaoLu
-
 Welcome to my GitHub profile!  
 </div>  
 
@@ -37,7 +36,6 @@ Welcome to my GitHub profile!
 
 </div>
 
----  
 
 <div align="center">  
   
