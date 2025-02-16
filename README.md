@@ -1,13 +1,8 @@
+<div align="center">  
+
 # Hi there! 👋 I'm RDXiaoLu
 
 Welcome to my GitHub profile!  
-
-<div align="center">  
-
-# こんにちは! 👋 I'm **RDXiaoLu** 🌸  
-
-Welcome to my **二次元 GitHub World!** 🎨✨  
-Where technology meets creativity and passion for **Anime** & **AI**!  
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QyMDEwYzM4YmYzYmVmNjRmYzI4NzllNjE3N2I4NjZlYjExYmM0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" alt="Anime Girl" height="200px"/>  
 
