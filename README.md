@@ -22,7 +22,6 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu)](https://github.com/anuraghazra/github-readme-stats)
 
 [![RDXiaoLu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RDXiaoLu&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)  
 
