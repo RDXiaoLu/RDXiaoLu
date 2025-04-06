@@ -21,9 +21,7 @@ Welcome to my GitHub profile!
 
 ---  
 
-[![](https://www.kaggle.com/static/images/site/logo.png)](https://www.kaggle.com/) [![Kaggle Badge](https://img.shields.io/badge/🏆13th%20place-brightgreen)](https://www.kaggle.com/c/nexar-dashcam-crash-prediction)  
-
-🚗💥 13th out of 147 in [Nexar Dashcam Challenge](https://www.kaggle.com/c/nexar-dashcam-crash-prediction).
+[![](https://www.kaggle.com/static/images/site/logo.png)](https://www.kaggle.com/) [![Kaggle Badge](https://img.shields.io/badge/🏆13th%20place-brightgreen)](https://www.kaggle.com/c/nexar-dashcam-crash-prediction)  in [Nexar Dashcam Challenge](https://www.kaggle.com/c/nexar-dashcam-crash-prediction).
 
 ---
 
