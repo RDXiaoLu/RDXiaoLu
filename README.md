@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
 
 ---  
 
-## 🏆 Kaggle Competition
+## 🏆 Competition
 
 [![](https://www.kaggle.com/static/images/site/logo.png)](https://www.kaggle.com/) [![Kaggle Badge](https://img.shields.io/badge/🏆13th%20place-brightgreen)](https://www.kaggle.com/c/nexar-dashcam-crash-prediction)  Ranked **13/147** in [Nexar Dashcam Challenge](https://www.kaggle.com/competitions/nexar-collision-prediction/overview). 
 
