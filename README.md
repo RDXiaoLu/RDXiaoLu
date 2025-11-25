@@ -24,7 +24,8 @@ Welcome to my GitHub profile!
 ## 🏆 Competition
 
 [![](https://www.kaggle.com/static/images/site/logo.png)](https://www.kaggle.com/) [![Kaggle Badge](https://img.shields.io/badge/🏆9th%20place-brightgreen)](https://www.kaggle.com/c/nexar-dashcam-crash-prediction)  Ranked **9/238** in [Nexar Dashcam Challenge](https://www.kaggle.com/competitions/nexar-collision-prediction/overview). 
-[![](https://www.kaggle.com/static/images/site/logo.png)](https://www.kaggle.com/) [![Kaggle Badge](https://img.shields.io/badge/🏆4th%20place-brightgreen)](https://www.kaggle.com/c/nexar-dashcam-crash-prediction)  Ranked **4/39** in [Clouding Programing World Cup(Forum8 Company)](https://cpwc.forum8.co.jp/english/2025/). 
+
+[![](https://www.kaggle.com/static/images/site/logo.png)](https://www.kaggle.com/) [![Kaggle Badge](https://img.shields.io/badge/🏆4th%20place-brightgreen)](https://www.kaggle.com/c/nexar-dashcam-crash-prediction)  Intelligent driving system for all-domain intelligent logistics and autonomous driving Ranked **4/39** in [Clouding Programing World Cup(Forum8 Company)](https://cpwc.forum8.co.jp/english/2025/). 
 
 ---
 
